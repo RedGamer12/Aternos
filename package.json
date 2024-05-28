@@ -1,0 +1,16 @@
+{
+  "name": "host_bot",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "mineflayer": "^4.20.1"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "mike_uzime",
+  "license": "ISC"
+}
